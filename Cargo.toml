@@ -1,0 +1,8 @@
+[package]
+name = "test-pixels-version"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pixels = { git = "https://github.com/parasyte/pixels.git" }
+pixels-mocks = { git = "https://github.com/parasyte/pixels.git" }
